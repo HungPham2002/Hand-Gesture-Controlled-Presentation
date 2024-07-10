@@ -10,7 +10,7 @@ chỉ ngày càng phổ biến và thành công. Do đó, trong đề tài này 
 dạng cử chỉ tay sử dụng công nghệ Hand Tracking.
 
 # Cài đặt
-- Thư viện sử dụng: Thư viện OpenCV
+- Thư viện sử dụng: 
 OpenCV được xây dựng để cung cấp một cơ sở hạ tầng chung cho các ứng dụng thị giác
 máy tính và để đẩy nhanh việc sử dụng nhận thức máy trong các sản phẩm thương mại.
 Là một sản phẩm được cấp phép BSD, OpenCV giúp các doanh nghiệp dễ dàng sử dụng
